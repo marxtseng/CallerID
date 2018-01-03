@@ -1,3 +1,3 @@
 # CallerID 來電顯示範例
 
-![ScreenShot](https://raw.githubusercontent.com/marxtseng/CallerID/master/Screenshot.png)
+<img src="https://raw.githubusercontent.com/marxtseng/CallerID/master/Screenshot.png" width="360px"/>
